@@ -1,0 +1,6 @@
+﻿Receipt ID: 47213527 | Transaction ID: 93484869 | Date: 09/08/2022 | Sale: $ 20.89
+Receipt ID: 58462358 | Transaction ID: 85471259 | Date: 23/08/2022 | Sale: $ 79.66
+Receipt ID: 78496352 | Transaction ID: 98687485 | Date: 10/03/2023 | Sale: $ 84.64
+Receipt ID: 98598969 | Transaction ID: 10202585 | Date: 16/05/2023 | Sale: $ 52.64
+Receipt ID: 85475826 | Transaction ID: 14253268 | Date: 23/11/2023 | Sale: $ 11.00
+Receipt ID: 89658754 | Transaction ID: 25014142 | Date: 04/07/2023 | Sale: $ 110.50

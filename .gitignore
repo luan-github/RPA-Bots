@@ -1,0 +1,14 @@
+# Ignorar arquivos e pastas específicos do UiPath que não precisam ser versionados
+
+# Pastas e arquivos de cache e configuração local
+*/.local/
+*/.settings/
+*/.nuget/
+
+# Ignorar logs e arquivos temporários
+*.log
+*.tmp
+
+# Ignorar pacotes e dependências temporárias
+project.json.old
+*/project.json.old
